@@ -1,0 +1,10 @@
+echo "Hello, What is your name?"
+read name
+mkdir "$name"
+cd "$name"
+touch "$name1.cpp"
+touch "$name2.cpp"
+touch "$name3.cpp"
+touch "$name4.cpp"
+touch "$name5.cpp"
+echo "Q2 done"
